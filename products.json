@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Hall",
+        "price": 44.99,
+        "image": { "fields": { "file": { "url": "./imgs//hall01.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Dining Room",
+        "price": 42.99,
+        "image": { "fields": { "file": { "url": "./imgs/dining01.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Living Room",
+        "price": 32.99,
+        "image": { "fields": { "file": { "url": "./imgs/living01.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Master Room",
+        "price": 32.99,
+        "image": { "fields": { "file": { "url": "./imgs/master01.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Dressing Room",
+        "price": 18.99,
+        "image": { "fields": { "file": { "url": "./imgs/dressing01.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Kids Room",
+        "price": 32.99,
+        "image": { "fields": { "file": { "url": "./imgs/kids01.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Kitchen",
+        "price": 35.99,
+        "image": { "fields": { "file": { "url": "./imgs/kitchen01.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Bathroom",
+        "price": 33.99,
+        "image": { "fields": { "file": { "url": "./imgs/bathroom01.jpg" } } }
+      }
+    }
+  ]
+}
